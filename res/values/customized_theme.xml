@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- the theme applied to the application or activity -->
+    <style name="icon_customActBar"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/icon_actionbar</item>
+    </style>
+    <style name="contact_customActBar"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/contact_actionBar</item>
+    </style>
+    <style name="meniu_customActBar"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/meniu_actionBar</item>
+    </style>
+    <style name="optiuni_customActBar"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/optiuni_actionBar</item>
+    </style>
+
+    <!-- ActionBar styles -->
+    <style name="icon_actionbar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/rrestaurant_01</item>
+    </style>
+    <style name="contact_actionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/fcj_01</item>
+    </style>
+    <style name="meniu_actionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/meniu_01</item>
+    </style>
+    <style name="optiuni_actionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/meniu_03</item>
+    </style>
+</resources>

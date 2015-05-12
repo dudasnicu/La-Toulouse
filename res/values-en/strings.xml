@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="action_settings">Setting</string>
+    <string name="app_name">Catering</string>
+    <string name="contact_button">Contact</string>
+    <string name="contact_email_adress_text">dudasnicu@gmail.com</string>
+    <string name="contact_email_text">Email:</string>
+    <string name="contact_phone_number_decimal">+40743617589</string>
+    <string name="contact_phone_number_text">Phone:</string>
+    <string name="copyrightText">Copyright CreativeSoft</string>
+    <string name="food_menu_button">Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="language_button">Language</string>
+    <string name="settings_button">Preferences</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_food_menu">FoodMenu</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
